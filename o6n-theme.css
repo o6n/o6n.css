@@ -1,0 +1,37 @@
+/*
+    THEME
+    BASE COLOR: #
+    GENERATOR:  
+    IMAGE:      
+
+    PALETTE
+    DARKER:     #000000
+    DARK:       #990000
+    MAIN:       #ff0000
+    LIGHT:      #ffd000
+    LIGHTER:    #ffffff
+*/
+
+/* BACKGROUND COLORS */
+.o6n-theme-darker,.o6n-theme-darker-hover:hover{color:#fff!important;background-color:#000000!important;}
+.o6n-theme-dark,.o6n-theme-dark-hover:hover{color:#000!important;background-color:#990000!important;}
+.o6n-theme-main,.o6n-theme-main-hover:hover{color:#000!important;background-color:#ff0000!important;}
+.o6n-theme-light,.o6n-theme-light-hover:hover{color:#000!important;background-color:#ffd000!important;}
+.o6n-theme-lighter,.o6n-theme-lighter-hover:hover{color:#000!important;background-color:#ffffff!important;}
+/* TEXT COLORS */
+.o6n-theme-text-darker,.o6n-theme-text-darker-hover:hover{color:#000000!important;}
+.o6n-theme-text-dark,.o6n-theme-text-dark-hover:hover{color:#990000!important;}
+.o6n-theme-text-main,.o6n-theme-text-main-hover:hover{color:#ff0000!important;}
+.o6n-theme-text-light,.o6n-theme-text-light-hover:hover{color:#ffd000!important;}
+.o6n-theme-text-lighter,.o6n-theme-text-lighter-hover:hover{color:#ffffff!important;}
+/* BORDER COLORS */
+.o6n-theme-border-darker,.o6n-theme-border-darker-hover:hover{border:1px solid #000000!important;}
+.o6n-theme-border-dark,.o6n-theme-border-dark-hover:hover{border:1px solid #990000!important;}
+.o6n-theme-border-main,.o6n-theme-border-main-hover:hover{border:1px solid #ff0000!important;}
+.o6n-theme-border-light,.o6n-theme-border-light-hover:hover{border:1px solid #ffd000!important;}
+.o6n-theme-border-lighter,.o6n-theme-border-lighter-hover:hover{border:1px solid #ffffff!important;}
+
+
+/*
+    #ccff00 -> rgba(204, 255, 0, 1)
+*/

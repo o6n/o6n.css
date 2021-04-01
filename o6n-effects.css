@@ -1,0 +1,12 @@
+/***** Pulse *****/
+
+.o6n-pulse A:hover, .o6n-pulse IMG:hover, .o6n-pulse DIV:hover, .o6n-pulse SPAN:hover, A.o6n-pulse:hover, IMG.o6n-pulse:hover, DIV.o6n-pulse:hover, SPAN.o6n-pulse:hover{
+    animation: pulse 1s infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(.9); }
+    100% { transform: scale(1); }
+}
