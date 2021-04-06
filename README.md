@@ -1,5 +1,11 @@
 # o6n.css
-From idea [W3.CSS](https://www.w3schools.com/W3CSS/default.asp) 4.13 June 2019 by Jan Egil and Borge Refsnes
+:uk: From idea [W3.CSS](https://www.w3schools.com/W3CSS/default.asp) 4.13 June 2019 by Jan Egil and Borge Refsnes
+
+:it: Da un idea [W3.CSS](https://www.w3schools.com/W3CSS/default.asp) 4.13 June 2019 di Jan Egil e Borge Refsnes
+
+:uk: it needs [normalize.css](https://necolas.github.io/normalize.css/) to work
+
+:it: per funzionare ha bisogno di [normalize.css](https://necolas.github.io/normalize.css/)
 
 ## o6n.css
 
