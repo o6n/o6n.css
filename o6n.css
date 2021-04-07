@@ -284,7 +284,7 @@ A:hover{text-decoration:none;}
 .o6n-button{border:none;display:inline-block;padding:.5em 1em;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap;}
 .o6n-button{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
 .o6n-button:hover{text-decoration:none!important;color:#000!important;background-color:#d4d4d4!important;}
-.o6n-button A I{vertical-align:middle!important;}
+.o6n-button I{vertical-align:middle!important;}
 
 .o6n-button-corner-xxsmall,.o6n-button-corner-xsmall,.o6n-button-corner-small,.o6n-button-corner-medium,.o6n-button-corner-large,.o6n-button-corner-xlarge,.o6n-button-corner-xxlarge{border:none;display:inline-block;padding:.5em 1em;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap;}
 .o6n-button-corner-xxsmall,.o6n-button-corner-xsmall,.o6n-button-corner-small,.o6n-button-corner-medium,.o6n-button-corner-large,.o6n-button-corner-xlarge,.o6n-button-corner-xxlarge{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}
