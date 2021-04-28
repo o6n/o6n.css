@@ -23,7 +23,7 @@
     <!-- CDN
      	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet preload" as="style" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css" />
-    <link rel="stylesheet preload" as="style" href="https://cdn.jsdelivr.net/gh/o6n/o6n.css@1.0/o6n.min.css" />
+    <link rel="stylesheet preload" as="style" href="https://cdn.jsdelivr.net/gh/o6n/o6n.css@latest/o6n.min.css" />
 
     <title>o6n</title>
   </head>
@@ -55,7 +55,7 @@
     <!-- CDN
    	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="stylesheet preload" as="style" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css" />
-    <link rel="stylesheet preload" as="style" href="https://cdn.jsdelivr.net/gh/o6n/o6n.css@1.0/o6n.min.css" />
+    <link rel="stylesheet preload" as="style" href="https://cdn.jsdelivr.net/gh/o6n/o6n.css@latest/o6n.min.css" />
 
     <!-- LOCAL
    	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
