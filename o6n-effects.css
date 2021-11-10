@@ -10,3 +10,29 @@
     50% { transform: scale(.9); }
     100% { transform: scale(1); }
 }
+
+/***** Ping *****/
+.o6n-ping A:hover, .o6n-ping IMG:hover, .o6n-ping DIV:hover, .o6n-ping SPAN:hover, A.o6n-ping:hover, IMG.o6n-ping:hover, DIV.o6n-ping:hover, SPAN.o6n-ping:hover{
+	animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+@keyframes ping {
+	75%, 100% {
+		transform: scale(2);
+		opacity: 0;
+	}
+}
+
+/***** Bounce *****/
+.o6n-bounce A:hover, .o6n-bounce IMG:hover, .o6n-bounce DIV:hover, .o6n-bounce SPAN:hover, A.o6n-bounce:hover, IMG.o6n-bounce:hover, DIV.o6n-bounce:hover, SPAN.o6n-bounce:hover{
+	animation: bounce 1s infinite;
+}
+@keyframes bounce {
+	0%, 100% {
+		transform: translateY(-25%);
+		animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+	}
+	50% {
+		transform: translateY(0);
+		animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+	}
+}
