@@ -111,17 +111,32 @@ A:hover{text-decoration:none;}
 .o6n-margin-both{margin:0 1em!important;}			/* 16px/16=1em (16px default) top & bottom */
 
 /* BORDERS */
+/* .o6n-border-top .o6n-theme-border-darker */
 .o6n-border-none{border:0!important;}
-.o6n-border{border:1px solid #d4d4d4!important;}
-.o6n-border-top{border-top:1px solid #d4d4d4!important;}
-.o6n-border-bottom{border-bottom:1px solid #d4d4d4!important;}
-.o6n-border-left{border-left:1px solid #d4d4d4!important;}
-.o6n-border-right{border-right:1px solid #d4d4d4!important;}
-/* BORDERBAR */
-.o6n-border-bar-top{border-top:.5em solid #d4d4d4!important;}		/* 8px/16=.5em (16px default) */
-.o6n-border-bar-bottom{border-bottom:.5em solid #d4d4d4!important;}	/* 8px/16=.5em (16px default) */
-.o6n-border-bar-left{border-left:.5em solid #d4d4d4!important;}		/* 8px/16=.5em (16px default) */
-.o6n-border-bar-right{border-right:.5em solid #d4d4d4!important;}	/* 8px/16=.5em (16px default) */
+.o6n-border{border:1px solid!important;}
+.o6n-border-large{border:thick solid!important;}
+.o6n-border-medium{border:medium solid!important;}
+.o6n-border-small{border:thin solid!important;}
+
+.o6n-border-top{border-top:1px solid!important;}
+.o6n-border-top-large{border-top:thick solid!important;}
+.o6n-border-top-medium{border-top:medium solid!important;}
+.o6n-border-top-small{border-top:thin solid!important;}
+
+.o6n-border-bottom{border-bottom:1px solid!important;}
+.o6n-border-bottom-large{border-bottom:thick solid!important;}
+.o6n-border-bottom-medium{border-bottom:medium solid!important;}
+.o6n-border-bottom-small{border-bottom:thin solid!important;}
+
+.o6n-border-left{border-left:1px solid!important;}
+.o6n-border-left-large{border-left:thick solid!important;}
+.o6n-border-left-medium{border-left:medium solid!important;}
+.o6n-border-left-small{border-left:thin solid!important;}
+
+.o6n-border-right{border-right:1px solid!important;}
+.o6n-border-right-large{border-right:thick solid!important;}
+.o6n-border-right-medium{border-right:medium solid!important;}
+.o6n-border-right-small{border-right:thin solid!important;}
 
 /* CORNER */
 .o6n-corner-xxsmall{
