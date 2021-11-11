@@ -40,25 +40,26 @@
 .o6n-text-white,.o6n-text-white-hover:hover{color:#fff!important}
 .o6n-text-yellow,.o6n-text-yellow-hover:hover{color:#ffeb3b!important}
 /* BORDERS COLORS */
-.o6n-border-amber,.o6n-border-amber-hover:hover{border:1px solid #ffc107!important}
-.o6n-border-aqua,.o6n-border-aqua-hover:hover{border:1px solid #00ffff!important}
-.o6n-border-black,.o6n-border-black-hover:hover{border:1px solid #000!important}
-.o6n-border-blue,.o6n-border-blue-hover:hover{border:1px solid #2196F3!important}
-.o6n-border-brown,.o6n-border-brown-hover:hover{border:1px solid #795548!important}
-.o6n-border-cyan,.o6n-border-cyan-hover:hover{border:1px solid #00bcd4!important}
-.o6n-border-green,.o6n-border-green-hover:hover{border:1px solid #006800!important}
-.o6n-border-grey,.o6n-border-grey-hover:hover,.o6n-border-gray,.o6n-border-gray-hover:hover{border:1px solid #9e9e9e!important}
-.o6n-border-indigo,.o6n-border-indigo-hover:hover{border:1px solid #3f51b5!important}
-.o6n-border-khaki,.o6n-border-khaki-hover:hover{border:1px solid #f0e68c!important}
-.o6n-border-lime,.o6n-border-lime-hover:hover{border:1px solid #cddc39!important}
-.o6n-border-orange,.o6n-border-orange-hover:hover{border:1px solid #ff9800!important}
-.o6n-border-pink,.o6n-border-pink-hover:hover{border:1px solid #e91e63!important}
-.o6n-border-purple,.o6n-border-purple-hover:hover{border:1px solid #9c27b0!important}
-.o6n-border-red,.o6n-border-red-hover:hover{border:1px solid #f44336!important}
-.o6n-border-sand,.o6n-border-sand-hover:hover{border:1px solid #fdf5e6!important}
-.o6n-border-teal,.o6n-border-teal-hover:hover{border:1px solid #009688!important}
-.o6n-border-white,.o6n-border-white-hover:hover{border:1px solid #fff!important}
-.o6n-border-yellow,.o6n-border-yellow-hover:hover{border:1px solid #ffeb3b!important}
+/* .o6n-border-amber .o6n-border-large */
+.o6n-border-amber,.o6n-border-amber-hover:hover{border:solid #ffc107!important}
+.o6n-border-aqua,.o6n-border-aqua-hover:hover{border:solid #00ffff!important}
+.o6n-border-black,.o6n-border-black-hover:hover{border:solid #000!important}
+.o6n-border-blue,.o6n-border-blue-hover:hover{border:solid #2196F3!important}
+.o6n-border-brown,.o6n-border-brown-hover:hover{border:solid #795548!important}
+.o6n-border-cyan,.o6n-border-cyan-hover:hover{border:solid #00bcd4!important}
+.o6n-border-green,.o6n-border-green-hover:hover{border:solid #006800!important}
+.o6n-border-grey,.o6n-border-grey-hover:hover,.o6n-border-gray,.o6n-border-gray-hover:hover{border:solid #9e9e9e!important}
+.o6n-border-indigo,.o6n-border-indigo-hover:hover{border:solid #3f51b5!important}
+.o6n-border-khaki,.o6n-border-khaki-hover:hover{border:solid #f0e68c!important}
+.o6n-border-lime,.o6n-border-lime-hover:hover{border:solid #cddc39!important}
+.o6n-border-orange,.o6n-border-orange-hover:hover{border:solid #ff9800!important}
+.o6n-border-pink,.o6n-border-pink-hover:hover{border:solid #e91e63!important}
+.o6n-border-purple,.o6n-border-purple-hover:hover{border:solid #9c27b0!important}
+.o6n-border-red,.o6n-border-red-hover:hover{border:solid #f44336!important}
+.o6n-border-sand,.o6n-border-sand-hover:hover{border:solid #fdf5e6!important}
+.o6n-border-teal,.o6n-border-teal-hover:hover{border:solid #009688!important}
+.o6n-border-white,.o6n-border-white-hover:hover{border:solid #fff!important}
+.o6n-border-yellow,.o6n-border-yellow-hover:hover{border:solid #ffeb3b!important}
 
 /* SOCIAL */
 /* BACKGROUND COLORS */
@@ -75,6 +76,7 @@
 .o6n-discord,.o6n-discord-hover:hover{background-color:#7289da!important;}
 .o6n-dribbble,.o6n-dribbble-hover:hover{background-color:#ea4c89!important;}
 .o6n-dropbox,.o6n-dropbox-hover:hover{background-color:#007ee5!important;}
+.o6n-email,.o6n-email-hover:hover{background-color:#ccff00!important;}
 .o6n-facebook,.o6n-facebook-hover:hover{background-color:#1877f2!important;}
 .o6n-fivehundredpx,.o6n-fivehundredpx-hover:hover{background-color:#0099e5!important;}
 .o6n-flickr,.o6n-flickr-hover:hover{background-color:#f40083!important;}
@@ -89,7 +91,6 @@
 .o6n-linkedin,.o6n-linkedin-hover:hover{background-color:#0077b5!important;}
 .o6n-listly,.o6n-listly-hover:hover{background-color:#df6d46!important;}
 .o6n-mastodon,.o6n-mastodon-hover:hover{background-color:#2b90d9!important;}
-.o6n-medium,.o6n-medium-hover:hover{background-color:#02b875!important;}
 .o6n-messenger,.o6n-messenger-hover:hover{background-color:#0084ff!important;}
 .o6n-microsoft,.o6n-microsoft-hover:hover{background-color:#00A4EF!important;}
 .o6n-periscope,.o6n-periscope-hover:hover{background-color:#40a4c4!important;}
@@ -136,6 +137,7 @@
 .o6n-text-discord,.o6n-text-discord-hover:hover{color:#7289da!important;}
 .o6n-text-dribbble,.o6n-text-dribbble-hover:hover{color:#ea4c89!important;}
 .o6n-text-dropbox,.o6n-text-dropbox-hover:hover{color:#007ee5!important;}
+.o6n-text-email,.o6n-text-email-hover:hover{color:#ccff00!important;}
 .o6n-text-facebook,.o6n-text-facebook-hover:hover{color:#1877f2!important;}
 .o6n-text-fivehundredpx,.o6n-text-fivehundredpx-hover:hover{color:#0099e5!important;}
 .o6n-text-flickr,.o6n-text-flickr-hover:hover{color:#f40083!important;}
@@ -150,7 +152,6 @@
 .o6n-text-linkedin,.o6n-text-linkedin-hover:hover{color:#0077b5!important;}
 .o6n-text-listly,.o6n-text-listly-hover:hover{color:#df6d46!important;}
 .o6n-text-mastodon,.o6n-text-mastodon-hover:hover{color:#2b90d9!important;}
-.o6n-text-medium,.o6n-text-medium-hover:hover{color:#02b875!important;}
 .o6n-text-messenger,.o6n-text-messenger-hover:hover{color:#0084ff!important;}
 .o6n-text-microsoft,.o6n-text-microsoft-hover:hover{color:#00A4EF!important;}
 .o6n-text-periscope,.o6n-text-periscope-hover:hover{color:#40a4c4!important;}
@@ -185,63 +186,64 @@
 .o6n-text-yelp,.o6n-text-yelp-hover:hover{color:#af0606!important;}
 .o6n-text-youtube,.o6n-text-youtube-hover:hover{color:#ff0000!important;}
 /* BORDER COLORS */
-.o6n-border-airbnb,.o6n-border-airbnb-hover:hover{border:1px solid #ff5a5f!important;}
-.o6n-border-alexa,.o6n-border-alexa-hover:hover{border:1px solid #00a7ce!important;}
-.o6n-border-amazon,.o6n-border-amazon-hover:hover{border:1px solid #ff9900!important;}
-.o6n-border-android,.o6n-border-android-hover:hover{border:1px solid #a4c639!important;}
-.o6n-border-angieslist,.o6n-border-angieslist-hover:hover{border:1px solid #29a036!important;}
-.o6n-border-apple,.o6n-border-apple-hover:hover{border:1px solid #a6b1b7!important;}
-.o6n-border-behance,.o6n-border-behance-hover:hover{border:1px solid #131418!important;}
-.o6n-border-blogger,.o6n-border-blogger-hover:hover{border:1px solid #f57d00!important;}
-.o6n-border-clarity,.o6n-border-clarity-hover:hover{border:1px solid #61bed9!important;}
-.o6n-border-deviantart,.o6n-border-deviantart-hover:hover{border:1px solid #05cc47!important;}
-.o6n-border-discord,.o6n-border-discord-hover:hover{border:1px solid #7289da!important;}
-.o6n-border-dribbble,.o6n-border-dribbble-hover:hover{border:1px solid #ea4c89!important;}
-.o6n-border-dropbox,.o6n-border-dropbox-hover:hover{border:1px solid #007ee5!important;}
-.o6n-border-facebook,.o6n-border-facebook-hover:hover{border:1px solid #1877f2!important;}
-.o6n-border-fivehundredpx,.o6n-border-fivehundredpx-hover:hover{border:1px solid #0099e5!important;}
-.o6n-border-flickr,.o6n-border-flickr-hover:hover{border:1px solid #f40083!important;}
-.o6n-border-foursquare,.o6n-border-foursquare-hover:hover{border:1px solid #073282!important;}
-.o6n-border-glassdoor,.o6n-border-glassdoor-hover:hover{border:1px solid #0caa41!important;}
-.o6n-border-google,.o6n-border-google-hover:hover{border:1px solid #4285f4!important;}
-.o6n-border-hackernews,.o6n-border-hackernews-hover:hover{border:1px solid #ff6600!important;}
-.o6n-border-homeadvisor,.o6n-border-homeadvisor-hover:hover{border:1px solid #f89000!important;}
-.o6n-border-houzz,.o6n-border-houzz-hover:hover{border:1px solid #4dbc15!important;}
-.o6n-border-instagram,.o6n-border-instagram-hover:hover{border:1px solid #e4405f!important;}
-.o6n-border-line,.o6n-border-line-hover:hover{border:1px solid #00c300!important;}
-.o6n-border-linkedin,.o6n-border-linkedin-hover:hover{border:1px solid #0077b5!important;}
-.o6n-border-listly,.o6n-border-listly-hover:hover{border:1px solid #df6d46!important;}
-.o6n-border-mastodon,.o6n-border-mastodon-hover:hover{border:1px solid #2b90d9!important;}
-.o6n-border-medium,.o6n-border-medium-hover:hover{border:1px solid #02b875!important;}
-.o6n-border-messenger,.o6n-border-messenger-hover:hover{border:1px solid #0084ff!important;}
-.o6n-border-microsoft,.o6n-border-microsoft-hover:hover{border:1px solid #00A4EF!important;}
-.o6n-border-periscope,.o6n-border-periscope-hover:hover{border:1px solid #40a4c4!important;}
-.o6n-border-pinterest,.o6n-border-pinterest-hover:hover{border:1px solid #bd081c!important;}
-.o6n-border-pocket,.o6n-border-pocket-hover:hover{border:1px solid #ee4056!important;}
-.o6n-border-producthunt,.o6n-border-producthunt-hover:hover{border:1px solid #da552f!important;}
-.o6n-border-quora,.o6n-border-quora-hover:hover{border:1px solid #aa2200!important;}
-.o6n-border-reddit,.o6n-border-reddit-hover:hover{border:1px solid #ff5700!important;}
-.o6n-border-skype,.o6n-border-skype-hover:hover{border:1px solid #0078d7!important;}
-.o6n-border-slack,.o6n-border-slack-hover:hover{border:1px solid #3aaf85!important;}
-.o6n-border-slideshare,.o6n-border-slideshare-hover:hover{border:1px solid #0077b5!important;}
-.o6n-border-snapchat,.o6n-border-snapchat-hover:hover{border:1px solid #fffc00!important;}
-.o6n-border-soundcloud,.o6n-border-soundcloud-hover:hover{border:1px solid #ff3300!important;}
-.o6n-border-spotify,.o6n-border-spotify-hover:hover{border:1px solid #1ed760!important;}
-.o6n-border-steam,.o6n-border-steam-hover:hover{border:1px solid #171a21!important;}
-.o6n-border-stumbleupon,.o6n-border-stumbleupon-hover:hover{border:1px solid #eb4924!important;}
-.o6n-border-swarm,.o6n-border-swarm-hover:hover{border:1px solid #ffa633!important;}
-.o6n-border-telegram,.o6n-border-telegram-hover:hover{border:1px solid #0088cc!important;}
-.o6n-border-tiktok,.o6n-border-tiktok-hover:hover{border:1px solid #010101!important;}
-.o6n-border-tumblr,.o6n-border-tumblr-hover:hover{border:1px solid #2c4762!important;}
-.o6n-border-twitch,.o6n-border-twitch-hover:hover{border:1px solid #9146ff!important;}
-.o6n-border-twitter,.o6n-border-twitter-hover:hover{border:1px solid #55acee!important;}
-.o6n-border-vimeo,.o6n-border-vimeo-hover:hover{border:1px solid #1ab7ea!important;}
-.o6n-border-vine,.o6n-border-vine-hover:hover{border:1px solid #00b489!important;}
-.o6n-border-vk,.o6n-border-vk-hover:hover{border:1px solid #4c75a3!important;}
-.o6n-border-wechat,.o6n-border-wechat-hover:hover{border:1px solid #09b83e!important;}
-.o6n-border-weibo,.o6n-border-weibo-hover:hover{border:1px solid #df2029!important;}
-.o6n-border-whatsapp,.o6n-border-whatsapp-hover:hover{border:1px solid #25d366!important;}
-.o6n-border-wordpress,.o6n-border-wordpress-hover:hover{border:1px solid #21759b!important;}
-.o6n-border-yahoo,.o6n-border-yahoo-hover:hover{border:1px solid #410093!important;}
-.o6n-border-yelp,.o6n-border-yelp-hover:hover{border:1px solid #af0606!important;}
-.o6n-border-youtube,.o6n-border-youtube-hover:hover{border:1px solid #ff0000!important;}
+/* .o6n-border-airbnb .o6n-border-large */
+.o6n-border-airbnb,.o6n-border-airbnb-hover:hover{border:solid #ff5a5f!important;}
+.o6n-border-alexa,.o6n-border-alexa-hover:hover{border:solid #00a7ce!important;}
+.o6n-border-amazon,.o6n-border-amazon-hover:hover{border:solid #ff9900!important;}
+.o6n-border-android,.o6n-border-android-hover:hover{border:solid #a4c639!important;}
+.o6n-border-angieslist,.o6n-border-angieslist-hover:hover{border:solid #29a036!important;}
+.o6n-border-apple,.o6n-border-apple-hover:hover{border:solid #a6b1b7!important;}
+.o6n-border-behance,.o6n-border-behance-hover:hover{border:solid #131418!important;}
+.o6n-border-blogger,.o6n-border-blogger-hover:hover{border:solid #f57d00!important;}
+.o6n-border-clarity,.o6n-border-clarity-hover:hover{border:solid #61bed9!important;}
+.o6n-border-deviantart,.o6n-border-deviantart-hover:hover{border:solid #05cc47!important;}
+.o6n-border-discord,.o6n-border-discord-hover:hover{border:solid #7289da!important;}
+.o6n-border-dribbble,.o6n-border-dribbble-hover:hover{border:solid #ea4c89!important;}
+.o6n-border-dropbox,.o6n-border-dropbox-hover:hover{border:solid #007ee5!important;}
+.o6n-border-email,.o6n-border-email-hover:hover{border:solid #ccff00!important;}
+.o6n-border-facebook,.o6n-border-facebook-hover:hover{border:solid #1877f2!important;}
+.o6n-border-fivehundredpx,.o6n-border-fivehundredpx-hover:hover{border:solid #0099e5!important;}
+.o6n-border-flickr,.o6n-border-flickr-hover:hover{border:solid #f40083!important;}
+.o6n-border-foursquare,.o6n-border-foursquare-hover:hover{border:solid #073282!important;}
+.o6n-border-glassdoor,.o6n-border-glassdoor-hover:hover{border:solid #0caa41!important;}
+.o6n-border-google,.o6n-border-google-hover:hover{border:solid #4285f4!important;}
+.o6n-border-hackernews,.o6n-border-hackernews-hover:hover{border:solid #ff6600!important;}
+.o6n-border-homeadvisor,.o6n-border-homeadvisor-hover:hover{border:solid #f89000!important;}
+.o6n-border-houzz,.o6n-border-houzz-hover:hover{border:solid #4dbc15!important;}
+.o6n-border-instagram,.o6n-border-instagram-hover:hover{border:solid #e4405f!important;}
+.o6n-border-line,.o6n-border-line-hover:hover{border:solid #00c300!important;}
+.o6n-border-linkedin,.o6n-border-linkedin-hover:hover{border:solid #0077b5!important;}
+.o6n-border-listly,.o6n-border-listly-hover:hover{border:solid #df6d46!important;}
+.o6n-border-mastodon,.o6n-border-mastodon-hover:hover{border:solid #2b90d9!important;}
+.o6n-border-messenger,.o6n-border-messenger-hover:hover{border:solid #0084ff!important;}
+.o6n-border-microsoft,.o6n-border-microsoft-hover:hover{border:solid #00A4EF!important;}
+.o6n-border-periscope,.o6n-border-periscope-hover:hover{border:solid #40a4c4!important;}
+.o6n-border-pinterest,.o6n-border-pinterest-hover:hover{border:solid #bd081c!important;}
+.o6n-border-pocket,.o6n-border-pocket-hover:hover{border:solid #ee4056!important;}
+.o6n-border-producthunt,.o6n-border-producthunt-hover:hover{border:solid #da552f!important;}
+.o6n-border-quora,.o6n-border-quora-hover:hover{border:solid #aa2200!important;}
+.o6n-border-reddit,.o6n-border-reddit-hover:hover{border:solid #ff5700!important;}
+.o6n-border-skype,.o6n-border-skype-hover:hover{border:solid #0078d7!important;}
+.o6n-border-slack,.o6n-border-slack-hover:hover{border:solid #3aaf85!important;}
+.o6n-border-slideshare,.o6n-border-slideshare-hover:hover{border:solid #0077b5!important;}
+.o6n-border-snapchat,.o6n-border-snapchat-hover:hover{border:solid #fffc00!important;}
+.o6n-border-soundcloud,.o6n-border-soundcloud-hover:hover{border:solid #ff3300!important;}
+.o6n-border-spotify,.o6n-border-spotify-hover:hover{border:solid #1ed760!important;}
+.o6n-border-steam,.o6n-border-steam-hover:hover{border:solid #171a21!important;}
+.o6n-border-stumbleupon,.o6n-border-stumbleupon-hover:hover{border:solid #eb4924!important;}
+.o6n-border-swarm,.o6n-border-swarm-hover:hover{border:solid #ffa633!important;}
+.o6n-border-telegram,.o6n-border-telegram-hover:hover{border:solid #0088cc!important;}
+.o6n-border-tiktok,.o6n-border-tiktok-hover:hover{border:solid #010101!important;}
+.o6n-border-tumblr,.o6n-border-tumblr-hover:hover{border:solid #2c4762!important;}
+.o6n-border-twitch,.o6n-border-twitch-hover:hover{border:solid #9146ff!important;}
+.o6n-border-twitter,.o6n-border-twitter-hover:hover{border:solid #55acee!important;}
+.o6n-border-vimeo,.o6n-border-vimeo-hover:hover{border:solid #1ab7ea!important;}
+.o6n-border-vine,.o6n-border-vine-hover:hover{border:solid #00b489!important;}
+.o6n-border-vk,.o6n-border-vk-hover:hover{border:solid #4c75a3!important;}
+.o6n-border-wechat,.o6n-border-wechat-hover:hover{border:solid #09b83e!important;}
+.o6n-border-weibo,.o6n-border-weibo-hover:hover{border:solid #df2029!important;}
+.o6n-border-whatsapp,.o6n-border-whatsapp-hover:hover{border:solid #25d366!important;}
+.o6n-border-wordpress,.o6n-border-wordpress-hover:hover{border:solid #21759b!important;}
+.o6n-border-yahoo,.o6n-border-yahoo-hover:hover{border:solid #410093!important;}
+.o6n-border-yelp,.o6n-border-yelp-hover:hover{border:solid #af0606!important;}
+.o6n-border-youtube,.o6n-border-youtube-hover:hover{border:solid #ff0000!important;}
